@@ -1,0 +1,7 @@
+{
+  "name": "image-server",
+  "version": "0.0.1",
+    "dependencies": {
+    "@google-cloud/storage": "^1.2.1"
+  }
+}
